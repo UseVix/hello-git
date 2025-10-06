@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ajskdhsajkdklsadhklldskfhdlhf
+=======
+asdjksakjklsadhklldskfhdlhf
+>>>>>>> refs/remotes/origin/main
